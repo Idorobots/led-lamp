@@ -6144,16 +6144,16 @@ Source: http://www.mouser.com/ds/2/392/products_18-2245.pdf</description>
 <part name="LED1" library="led" deviceset="Z-POWER-LED" device=""/>
 <part name="IC1" library="linear" deviceset="LM358" device="D" value="LM358D"/>
 <part name="R1" library="pot" deviceset="TRIM_EU-" device="RJ9W" value="10k"/>
-<part name="R2" library="resistor" deviceset="R-EU_" device="0617/17" value="0R1"/>
-<part name="R3" library="resistor" deviceset="R-EU_" device="M1206" value="470k"/>
-<part name="R4" library="resistor" deviceset="R-EU_" device="M1206" value="470k"/>
-<part name="R5" library="resistor" deviceset="R-EU_" device="M1206" value="470k"/>
-<part name="R6" library="resistor" deviceset="R-EU_" device="M1206" value="470k"/>
+<part name="R2" library="resistor" deviceset="R-EU_" device="R1210" value="1R0"/>
+<part name="R3" library="resistor" deviceset="R-EU_" device="R1206" value="470k"/>
+<part name="R4" library="resistor" deviceset="R-EU_" device="R1206" value="470k"/>
+<part name="R5" library="resistor" deviceset="R-EU_" device="R1206" value="470k"/>
+<part name="R6" library="resistor" deviceset="R-EU_" device="R1206" value="470k"/>
 <part name="LED2" library="led" deviceset="Z-POWER-LED" device=""/>
 <part name="LED3" library="led" deviceset="Z-POWER-LED" device=""/>
-<part name="R7" library="resistor" deviceset="R-EU_" device="M1206" value="1k"/>
+<part name="R7" library="resistor" deviceset="R-EU_" device="R1206" value="1k"/>
 <part name="T2" library="transistor" deviceset="TIP32" device="" technology="C"/>
-<part name="R8" library="resistor" deviceset="R-EU_" device="M1206" value="47k"/>
+<part name="R8" library="resistor" deviceset="R-EU_" device="R1206" value="47k"/>
 <part name="VCC" library="holes" deviceset="MOUNT-PAD-ROUND" device="3.0"/>
 <part name="GND" library="holes" deviceset="MOUNT-PAD-ROUND" device="3.0"/>
 </parts>
